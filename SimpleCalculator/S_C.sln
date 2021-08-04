@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CNC Calculator", "SimpleCalculator\CNC Calculator.csproj", "{2BBAFA45-9372-4A2E-BA79-83151981E725}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\publish\Setup\Setup.vdproj", "{A2D4F61A-3D37-40C1-9BE6-ABCB16C768F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BBAFA45-9372-4A2E-BA79-83151981E725}.Debug|x86.ActiveCfg = Debug|x86
+		{2BBAFA45-9372-4A2E-BA79-83151981E725}.Debug|x86.Build.0 = Debug|x86
+		{2BBAFA45-9372-4A2E-BA79-83151981E725}.Release|x86.ActiveCfg = Release|x86
+		{2BBAFA45-9372-4A2E-BA79-83151981E725}.Release|x86.Build.0 = Release|x86
+		{A2D4F61A-3D37-40C1-9BE6-ABCB16C768F0}.Debug|x86.ActiveCfg = Debug
+		{A2D4F61A-3D37-40C1-9BE6-ABCB16C768F0}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F81D9710-5C1D-4B36-BE4C-9861C59FE60C}
+	EndGlobalSection
+EndGlobal

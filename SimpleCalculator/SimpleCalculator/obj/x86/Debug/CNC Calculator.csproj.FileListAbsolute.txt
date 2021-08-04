@@ -1,0 +1,9 @@
+E:\android tutorials\vb\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.Form1.resources
+E:\android tutorials\vb\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.Properties.Resources.resources
+E:\android tutorials\vb\SimpleCalculator\SimpleCalculator\obj\x86\Debug\CNC Calculator.csproj.GenerateResource.cache
+E:\android tutorials\vb\SimpleCalculator\SimpleCalculator\obj\x86\Debug\CNC Calculator.csproj.CoreCompileInputs.cache
+E:\android tutorials\vb\SimpleCalculator\SimpleCalculator\bin\Debug\CNC Calculator.exe
+E:\android tutorials\vb\SimpleCalculator\SimpleCalculator\bin\Debug\CNC Calculator.pdb
+E:\android tutorials\vb\SimpleCalculator\SimpleCalculator\obj\x86\Debug\CNC Calculator.csproj.AssemblyReference.cache
+E:\android tutorials\vb\SimpleCalculator\SimpleCalculator\obj\x86\Debug\CNC Calculator.exe
+E:\android tutorials\vb\SimpleCalculator\SimpleCalculator\obj\x86\Debug\CNC Calculator.pdb
